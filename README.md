@@ -3,7 +3,7 @@
 <br/>
 
 # Kshitiz Bansal
-## Computer Science devotee proficient in Cloud Computing & Data Engineering
+## Computer Science devotee proficient in Microservices Development, Cloud Computing & Data Engineering
 
 <br/>
 
@@ -73,4 +73,4 @@
 <br/>
 
 ## 📩 Contact Me
-[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1ii-cD4AT28XgxDgLeFFEm3GPk085HC1y/view)
+[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1eIgkFsqABKdKeoLqV-_1uQ5vxyo_WcH9/view)
