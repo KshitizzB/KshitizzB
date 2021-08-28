@@ -66,9 +66,10 @@
 <br/>
 
 ## 🛠 Skills
-`Python`&nbsp;&nbsp;`Statistics`&nbsp;&nbsp;`Data Engineering`&nbsp;&nbsp;`Data Visualization`<br/>
-`Data Analytics`&nbsp;&nbsp;`Big Data`&nbsp;&nbsp;`Machine Learning`&nbsp;&nbsp;`Data Science`<br/>
-`Microsoft Azure`&nbsp;&nbsp;`Power BI`&nbsp;&nbsp;`Tableau`&nbsp;&nbsp;`Snowflake`&nbsp;&nbsp;`MongoDB`
+`Software Development`&nbsp;&nbsp;`Microservices`&nbsp;&nbsp;`Cloud Computing`<br/>
+`System Design`&nbsp;&nbsp;`Socket Programming`&nbsp;&nbsp;`Data Engineering`<br/>
+`Python`&nbsp;&nbsp;`MongoDB`&nbsp;&nbsp;`MySQL`&nbsp;&nbsp;`Microsoft Azure`<br/>
+`Snowflake`&nbsp;&nbsp;`AWS`&nbsp;&nbsp;`GCP`&nbsp;&nbsp;`DevOps`&nbsp;&nbsp;`Apache Kafka`
 
 <br/>
 
