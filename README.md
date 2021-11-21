@@ -14,10 +14,14 @@
 
 ## 👨🏻‍💻 Work Experiecne
 - **Senior Software Engineer, Capgemini**
-  - Micro-services Development Using Python
-  - Building Data Migration Pipelines
-  - Data Engineering with Teradata & Snowflake
-  - Microsoft Azure Integration
+  - Developing cloud native data migration automated accelerators through robust RESTful APIs using microservice architecture
+  - Designing data migration pipelines from Teradata to Snowflake, Synapse & Redshift using Azure Data Factory & AWS Glue services
+  - Developing ETL code & data model conversion services
+  - Decoupling microservice flow through Apache Kafka
+  - Implementing metadata driven framework using MongoDB as data source
+  - Exposure on cognitive services using OpenAI, GPT-2, GPT-J & GPT-3 and graph DBMS using Neo4j
+  - Developing studio interface based on LCNC principle
+  - Socket programming implementation leverage for real time application
 - **Business Intelligence Intern, Capgemini**
   - Business Intelligence with Microsoft Azure and Power BI
   - PLP with Data Factory, Analysis Services & Databricks
