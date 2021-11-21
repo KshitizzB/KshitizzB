@@ -70,10 +70,11 @@
 <br/>
 
 ## 🛠 Skills
-`Software Development`&nbsp;&nbsp;`Microservices`&nbsp;&nbsp;`Cloud Computing`<br/>
-`System Design`&nbsp;&nbsp;`Socket Programming`&nbsp;&nbsp;`Data Engineering`<br/>
-`Python`&nbsp;&nbsp;`MongoDB`&nbsp;&nbsp;`MySQL`&nbsp;&nbsp;`Microsoft Azure`<br/>
-`Snowflake`&nbsp;&nbsp;`AWS`&nbsp;&nbsp;`GCP`&nbsp;&nbsp;`DevOps`&nbsp;&nbsp;`Apache Kafka`
+`Python`&nbsp;&nbsp;`RESTful API`&nbsp;&nbsp;`Flask`&nbsp;&nbsp;`MongoDB`&nbsp;&nbsp;`Snowflake`<br/>
+`Azure Data Factory`&nbsp;&nbsp;`AWS Glue`&nbsp;&nbsp;`AWS API Gateway`<br/>
+`Azure Key Vault`&nbsp;&nbsp;`AWS Secret Manager`&nbsp;&nbsp;`AWS Lambda`<br/>
+`Azure Databricks`&nbsp;&nbsp;`Power BI`&nbsp;&nbsp;`AWS S3`&nbsp;&nbsp;`Apache Kafka`<br/>
+`ADLS`&nbsp;&nbsp;`OpenAI`&nbsp;&nbsp;`GPT-2`&nbsp;&nbsp;`GPT-J`&nbsp;&nbsp;`GPT-3`&nbsp;&nbsp;`GIT`&nbsp;&nbsp;`Neo4j`
 
 <br/>
 
