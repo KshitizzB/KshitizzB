@@ -3,7 +3,7 @@
 <br/>
 
 # Kshitiz Bansal
-### Computer Science devotee proficient in Microservices Development, Cloud Computing & Data Engineering
+### Proactive & inquisitive software engineer with deadline-driven competency
 
 <br/>
 
