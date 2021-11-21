@@ -64,8 +64,11 @@
 <br/>
 
 ## 🏆 Achievements
-- 1st in State-Level Mathematics Competition
+- The Best Innovator Award
+- The Shining Star Award
+- The Rising Star Award
 - Honored by Rotary International Club being good at Academics
+- 1st in State-Level Mathematics Competition
 
 <br/>
 
@@ -79,4 +82,4 @@
 <br/>
 
 ## 📩 Contact Me
-[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1VyF0IYytLZQhzQpnlG_atrha9V5cHgNq/view)
+[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1lu1qKgDEqsP-VFC48riICi2Hyri6l4So/view)
