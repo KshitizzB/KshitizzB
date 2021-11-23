@@ -64,9 +64,9 @@
 <br/>
 
 ## 🏆 Achievements
-- The Best Innovator Award
-- The Shining Star Award
-- The Rising Star Award
+- Received The Best Innovator Award
+- Honoured with The Shining Star Award
+- Rewarded with The Rising Star Award
 - Honored by Rotary International Club being good at Academics
 - 1st in State-Level Mathematics Competition
 
