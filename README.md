@@ -13,6 +13,11 @@
 <br/>
 
 ## 👨🏻‍💻 Work Experiecne
+
+- **Associate Consultant, Capgemini**
+  - Developing data profiling application using GCP services
+  - OOP design pattern integrating Pandas, PySpark & Vaex
+  - DevOps exposure using Docker and Kubernetes in CI/CD
 - **Senior Software Engineer, Capgemini**
   - Developing cloud native data migration automated accelerators through robust RESTful APIs using microservice architecture
   - Designing data migration pipelines from Teradata to Snowflake, Synapse & Redshift using Azure Data Factory & AWS Glue services
@@ -74,12 +79,12 @@
 
 ## 🛠 Skills
 `Python`&nbsp;&nbsp;`RESTful API`&nbsp;&nbsp;`Flask`&nbsp;&nbsp;`MongoDB`&nbsp;&nbsp;`Snowflake`<br/>
-`Azure Data Factory`&nbsp;&nbsp;`AWS Glue`&nbsp;&nbsp;`AWS API Gateway`<br/>
-`Azure Key Vault`&nbsp;&nbsp;`AWS Secret Manager`&nbsp;&nbsp;`AWS Lambda`<br/>
-`Azure Databricks`&nbsp;&nbsp;`Power BI`&nbsp;&nbsp;`AWS S3`&nbsp;&nbsp;`Apache Kafka`<br/>
-`ADLS`&nbsp;&nbsp;`OpenAI`&nbsp;&nbsp;`GPT-2`&nbsp;&nbsp;`GPT-J`&nbsp;&nbsp;`GPT-3`&nbsp;&nbsp;`GIT`&nbsp;&nbsp;`Neo4j`
+`Azure Data Factory`&nbsp;&nbsp;`Azure Databricks`&nbsp;&nbsp;`Azure Data Lake`<br/>
+`AWS Glue`&nbsp;&nbsp;`AWS API Gateway`&nbsp;&nbsp;`AWS Cognito`&nbsp;&nbsp;`AWS S3`<br/>
+`GCP GCS`&nbsp;&nbsp;`GCP API Gateway`&nbsp;&nbsp;`GCP Dataproc`&nbsp;&nbsp;`Power BI`<br/>
+`Apache Kafka`&nbsp;&nbsp;`OpenAI`&nbsp;&nbsp;`GPT-2`&nbsp;&nbsp;`GPT-3`&nbsp;&nbsp;`GIT`&nbsp;&nbsp;`Neo4j`
 
 <br/>
 
 ## 📩 Contact Me
-[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1Jh6mhEJ86cwfOvLZHWqjdtw2fXdpuRBN/view)
+[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1n5DIstCPwKbREg1ZPXQ4IM9S4nmd9hWi/view)
