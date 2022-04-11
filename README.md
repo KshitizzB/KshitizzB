@@ -17,6 +17,8 @@
 - **Associate Consultant, Capgemini**
   - Developing data profiling application using GCP services
   - OOP design pattern integrating Pandas, PySpark & Vaex
+  - Implemented data cataloguing across various data sources
+  - Integrated GCP Data Loss Prevention services & templates
   - DevOps exposure using Docker and Kubernetes in CI/CD
 - **Senior Software Engineer, Capgemini**
   - Developing cloud native data migration automated accelerators through robust RESTful APIs using microservice architecture
@@ -52,6 +54,7 @@
 ## 🎖 Certifications
 - **Microsoft**
   - [Microsoft Azure Fundamentals]()
+  - [Microsoft Azure Data Fundamentals]()
 - **Oracle**
   - [OCI Certified Architect Professional](https://brm-certview.oracle.com/pls/certview/ecertificate?ssn=OC2022071&trackId=OCICAP2019OPN&key=f95a24b7dfd3ec8d522b854e8855246c4648ed0d)
   - [OCI Certified Architect Associate](https://brm-certview.oracle.com/pls/certview/ecertificate?ssn=OC2022071&trackId=OCSIAAS2019&key=43f97eb5af3a16e37df257ea8861b638b66e8c1f)
