@@ -20,6 +20,7 @@
   - Implemented data cataloguing across various data sources
   - Integrated GCP Data Loss Prevention services & templates
   - DevOps exposure using Docker and Kubernetes in CI/CD
+  - Implemented AWS SSO using user and identity pools
 - **Senior Software Engineer, Capgemini**
   - Developing cloud native data migration automated accelerators through robust RESTful APIs using microservice architecture
   - Designing data migration pipelines from Teradata to Snowflake, Synapse & Redshift using Azure Data Factory & AWS Glue services
@@ -90,4 +91,4 @@
 <br/>
 
 ## 📩 Contact Me
-[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1M7RQbx26Qi2Kv1VxIzU2_JBco6F2j49W/view)
+[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1FAvSH2C4JN961tft78pOy0zOg6t2FLYt/view)
