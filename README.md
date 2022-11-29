@@ -53,9 +53,11 @@
 <br/>
 
 ## 🎖 Certifications
+- **Amazon**
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/a4692537-1cdd-471a-96d7-b4210bbb0792)
 - **Microsoft**
-  - [Microsoft Azure Fundamentals]()
-  - [Microsoft Azure Data Fundamentals]()
+  - [Microsoft Azure Fundamentals](https://mcptnc.microsoft.com/599b87cf-7241-49d4-9f35-06942bc98c41)
+  - [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/33ce110d-08d0-4055-96da-92da15348014)
 - **Oracle**
   - [OCI Certified Architect Professional](https://brm-certview.oracle.com/pls/certview/ecertificate?ssn=OC2022071&trackId=OCICAP2019OPN&key=f95a24b7dfd3ec8d522b854e8855246c4648ed0d)
   - [OCI Certified Architect Associate](https://brm-certview.oracle.com/pls/certview/ecertificate?ssn=OC2022071&trackId=OCSIAAS2019&key=43f97eb5af3a16e37df257ea8861b638b66e8c1f)
