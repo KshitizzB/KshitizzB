@@ -94,4 +94,4 @@
 <br/>
 
 ## 📩 Contact Me
-[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1FAvSH2C4JN961tft78pOy0zOg6t2FLYt/view)
+[Linkedin](https://www.linkedin.com/in/kshitiz-bansal/)&nbsp;&nbsp;&nbsp;&nbsp;[Gmail](mailto:kshitizbansal9@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Medium](https://kshitizzb.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kshitizz420)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/15Gk159svGdGrPjDYlqgrnVIufDtzLfTl/view)
